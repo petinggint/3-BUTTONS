@@ -6,56 +6,56 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/ramadhani892/3-BUTTONS",
+  "repository": "https://github.com/petinggint/3-BUTTONS",
   "logo": "https://telegra.ph/file/9e1ccb4c62cf8375545d0.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": ""
+      "value": "7435960648:AAH03Hn361sIhP-DiwZZS5Rs1sUv9oCBzgE"
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "thisrama"
+      "value": "yaudai"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "1720836764"
+      "value": "7390960414"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
-      "value": "0"
+      "value": "7390960414"
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": ""
+      "value": "24016851"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": ""
+      "value": "246c43bf3a234d6994e71972ae946410"
     },
     "HEROKU_API_KEY": {
      "description": "Dapatkan apikey heroku pada account settings dashboard anda",
-     "value": ""
+     "value": "HRKU-a6c58d7d-a3a5-4f8a-80bb-bc7fc7d0c512"
     },
     "HEROKU_APP_NAME": {
      "description": "isi heroku app name sesuai dengan nama paling atas",
-     "value": ""
+     "value": "filesaka"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
-      "value": "-100"
+      "value": "--1002405973933"
     },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "0"
+      "value": "-1002314016979"
     },
     "FORCE_SUB_GROUP": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "0"
+      "value": "-1002370076389"
     },
     "FORCE_SUB_GROUP2": {
       "description": "Masukan ID Group / Channel Untuk Wajib Subscribe, Bila Ga kepake isi 0",
-      "value": "0"
+      "value": "-1002490615783"
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
@@ -74,7 +74,7 @@
     {
     "plan": "heroku-postgresql",
       "options": {
-        "version": "12"
+        "version": "14"
       }
     }
   ],
